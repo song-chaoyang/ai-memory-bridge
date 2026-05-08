@@ -277,7 +277,7 @@ console.log(`Total tokens: ${stats.totalTokens}`);
 
 ```bash
 # 克隆仓库
-git clone https://github.com/songchaoyang/ai-memory-bridge.git
+git clone https://github.com/960208781/ai-memory-bridge.git
 cd ai-memory-bridge
 
 # 安装依赖
@@ -348,8 +348,8 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ## 💬 社区
 
-- 📧 问题反馈: [GitHub Issues](https://github.com/songchaoyang/ai-memory-bridge/issues)
-- 💬 讨论交流: [GitHub Discussions](https://github.com/songchaoyang/ai-memory-bridge/discussions)
+- 📧 问题反馈: [GitHub Issues](https://github.com/960208781/ai-memory-bridge/issues)
+- 💬 讨论交流: [GitHub Discussions](https://github.com/960208781/ai-memory-bridge/discussions)
 
 ---
 

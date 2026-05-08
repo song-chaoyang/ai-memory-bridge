@@ -277,7 +277,7 @@ We welcome all forms of contributions!
 
 ```bash
 # Clone repository
-git clone https://github.com/songchaoyang/ai-memory-bridge.git
+git clone https://github.com/960208781/ai-memory-bridge.git
 cd ai-memory-bridge
 
 # Install dependencies
@@ -348,8 +348,8 @@ Thanks to all developers who have contributed to this project!
 
 ## 💬 Community
 
-- 📧 Issue Reports: [GitHub Issues](https://github.com/songchaoyang/ai-memory-bridge/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/songchaoyang/ai-memory-bridge/discussions)
+- 📧 Issue Reports: [GitHub Issues](https://github.com/960208781/ai-memory-bridge/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/960208781/ai-memory-bridge/discussions)
 
 ---
 

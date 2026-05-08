@@ -6,7 +6,7 @@ Thank you for your interest in contributing to AI Memory Bridge! We welcome cont
 
 ### Reporting Bugs
 
-- Check if the bug has already been reported in [Issues](https://github.com/songchaoyang/ai-memory-bridge/issues)
+- Check if the bug has already been reported in [Issues](https://github.com/960208781/ai-memory-bridge/issues)
 - If not, create a new issue with:
   - Clear description of the bug
   - Steps to reproduce
@@ -33,7 +33,7 @@ Thank you for your interest in contributing to AI Memory Bridge! We welcome cont
 
 ```bash
 # Clone your fork
-git clone https://github.com/songchaoyang/ai-memory-bridge.git
+git clone https://github.com/960208781/ai-memory-bridge.git
 cd ai-memory-bridge
 
 # Install dependencies

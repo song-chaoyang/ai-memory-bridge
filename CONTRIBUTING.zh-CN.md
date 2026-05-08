@@ -6,7 +6,7 @@
 
 ### 报告 Bug
 
-- 先在 [Issues](https://github.com/songchaoyang/ai-memory-bridge/issues) 中检查是否已存在该 bug
+- 先在 [Issues](https://github.com/960208781/ai-memory-bridge/issues) 中检查是否已存在该 bug
 - 如果没有，创建一个新 issue，包含：
   - 清晰的 bug 描述
   - 复现步骤
@@ -33,7 +33,7 @@
 
 ```bash
 # 克隆你的 fork
-git clone https://github.com/songchaoyang/ai-memory-bridge.git
+git clone https://github.com/960208781/ai-memory-bridge.git
 cd ai-memory-bridge
 
 # 安装依赖
