@@ -34,7 +34,7 @@
 
 | 特性 | 描述 |
 |------|------|
-| 🌐 **多平台支持** | ChatGPT、Claude、Gemini、文心一言等主流AI平台 |
+| 🌐 **多平台支持** | ChatGPT、Claude、Gemini、DeepSeek、Grok 等主流AI平台 |
 | 📦 **标准格式** | 统一的标准记忆体格式，跨平台通用 |
 | 🔄 **双向转换** | 支持导出和导入，来去自由 |
 | 🔍 **智能搜索** | 在海量对话中快速找到你需要的内容 |
@@ -265,7 +265,8 @@ console.log(`Total tokens: ${stats.totalTokens}`);
 | OpenAI ChatGPT | ✅ | ✅ | 稳定 |
 | Anthropic Claude | ✅ | ✅ | 稳定 |
 | Google Gemini | 🚧 | 🚧 | 开发中 |
-| 百度文心一言 | 🚧 | 🚧 | 开发中 |
+| DeepSeek | 🚧 | 🚧 | 开发中 |
+| xAI Grok | 🚧 | 🚧 | 开发中 |
 | 阿里通义千问 | 🚧 | 🚧 | 开发中 |
 | 本地模型 (Ollama) | ✅ | ✅ | 稳定 |
 
@@ -331,7 +332,8 @@ export class MyPlatformAdapter extends BaseAdapter {
 - [x] Claude 适配器
 - [x] CLI 工具
 - [ ] Gemini 适配器
-- [ ] 文心一言适配器
+- [ ] DeepSeek 适配器
+- [ ] Grok 适配器
 - [ ] 通义千问适配器
 - [ ] 网页版数据抓取
 - [ ] 加密存储支持

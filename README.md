@@ -34,7 +34,7 @@ English | [简体中文](README.zh-CN.md)
 
 | Feature | Description |
 |---------|-------------|
-| 🌐 **Multi-Platform Support** | ChatGPT, Claude, Gemini, Wenxin Yiyan, and more major AI platforms |
+| 🌐 **Multi-Platform Support** | ChatGPT, Claude, Gemini, DeepSeek, Grok, and more major AI platforms |
 | 📦 **Standard Format** | Unified standard memory format, cross-platform compatible |
 | 🔄 **Bidirectional Conversion** | Support both export and import, complete freedom |
 | 🔍 **Smart Search** | Quickly find what you need in massive conversation histories |
@@ -265,7 +265,8 @@ console.log(`Total tokens: ${stats.totalTokens}`);
 | OpenAI ChatGPT | ✅ | ✅ | Stable |
 | Anthropic Claude | ✅ | ✅ | Stable |
 | Google Gemini | 🚧 | 🚧 | In Development |
-| Baidu Wenxin Yiyan | 🚧 | 🚧 | In Development |
+| DeepSeek | 🚧 | 🚧 | In Development |
+| xAI Grok | 🚧 | 🚧 | In Development |
 | Alibaba Tongyi Qianwen | 🚧 | 🚧 | In Development |
 | Local Models (Ollama) | ✅ | ✅ | Stable |
 
@@ -331,7 +332,8 @@ export class MyPlatformAdapter extends BaseAdapter {
 - [x] Claude adapter
 - [x] CLI tool
 - [ ] Gemini adapter
-- [ ] Wenxin Yiyan adapter
+- [ ] DeepSeek adapter
+- [ ] Grok adapter
 - [ ] Tongyi Qianwen adapter
 - [ ] Web data scraping
 - [ ] Encrypted storage support
